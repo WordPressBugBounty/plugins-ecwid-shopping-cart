@@ -1,0 +1,19 @@
+.settings-page input[type=checkbox]:disabled:before {
+    content: '';
+}
+
+.ec-importer-alert-warning, .ec-importer-alert-warning {
+    display: none;
+}
+
+.a-card-stack[data-ec-importer-card-stack], [data-ec-importer-card-stack] .a-card { 
+	transition: none; 
+}
+
+[data-ec-importer-state] {
+    display: none;
+}
+
+[data-ec-importer-state="default"], .canonical-status .canonical-status__text[data-ec-importer-process-images] {
+    display: block;
+}

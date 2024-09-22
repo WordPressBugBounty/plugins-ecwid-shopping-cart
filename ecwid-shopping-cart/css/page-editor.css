@@ -1,0 +1,58 @@
+.mce-content-body img.ecwid-store-editor,
+.mceContentBody img.ecwid-store-editor
+{
+	padding-top: 30px !important;
+	background: #F1F1F1 !important;
+	border: 1px solid #E7E7E7 !important;
+	height: 200px !important;
+	width: 100% !important;
+	display: block !important;
+}
+
+.mce-content-body .ecwid-store-editor[data-ecwid-store-select="1"],
+.mceContentBody .ecwid-store-editor[data-ecwid-store-select="1"]
+{
+	outline: 1px solid #777 !important;
+}
+
+#ecwid-store-toolbar {
+	position: absolute !important;
+}
+
+#ecwid-store-toolbar div {
+	margin-top: 7px !important;
+	margin-left: 7px !important;
+	padding: 2px !important;
+	width: 30px !important;
+	height: 30px !important;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5) !important;
+	background-color: #000 !important;
+	background-color: rgba(0, 0, 0, 0.9) !important;
+	cursor: pointer !important;
+	color: #FFF !important;
+	font-size: 30px !important;
+	line-height: 1 !important;
+}
+
+
+
+#ecwid-edit-store-button {
+	padding: 0 12px 2px !important;
+	height: 30px !important;
+	line-height: 28px !important;
+	font-size: 14px !important;
+	font-family: "Open Sans", helvetica, arial, sans-serif !important;
+	background: #2EA2CC !important;
+	color: #FFF !important;
+	border: 1px solid #0074A2 !important;
+	border-radius: 3px !important;
+	box-shadow: inset 0 1px 0 rgba(120, 200, 230, 0.5), 0 1px 0 rgba(0, 0, 0, 0.15) !important;
+	cursor: pointer !important;
+	text-transform: capitalize !important;
+	text-decoration: none !important;
+}
+
+
+#ecwid-edit-store-button:hover {
+	background: #1E8CBE !important;
+}
