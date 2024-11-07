@@ -4,8 +4,8 @@ Tags: ecommerce, e-commerce, storefront, shopping cart, online store
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 4.4
-Tested up to: 6.6
-Stable tag: 6.12.21
+Tested up to: 6.7
+Stable tag: 6.12.22
 
 Powerful, easy to use ecommerce shopping cart for WordPress. Sell on Facebook and Instagram. iPhone & Android apps. Superb support. Free plan available.
 
@@ -153,6 +153,10 @@ You can use Ecwid’s built-in import tools to copy your store products from any
 * [Ecwid Help Center](http://help.ecwid.com "Ecwid Help")
 
 == Changelog ==
+= 6.12.22 - Nov 7, 2024 =
+- **WordPress 6.7 and Twenty Twenty Five theme compatibility.** The new WordPress version will be released soon. The Ecwid ecommerce shopping cart plugin is ready for the new release — everything works well in your WordPress admin and storefront pages. Feel free to upgrade your site to WordPress 6.7 and try a new theme.
+- Fixed issue with links of Product Small block when it contains non-latin characters.
+
 = 6.12.21 - Oct 16, 2024 =
 - Fixed issue with Single Sign On (SSO). Single Sign-On allows your customers to have a single login for both your WordPress site and your Ecwid store. If this feature is not working properly after latests release, please update your plugin.
 - Internal improvements and optimizations.
