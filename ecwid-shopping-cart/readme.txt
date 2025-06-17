@@ -5,7 +5,7 @@ License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 4.4
 Tested up to: 6.8
-Stable tag: 7.0.1
+Stable tag: 7.0.2
 
 Powerful, easy to use ecommerce shopping cart for WordPress. Sell on Facebook and Instagram. iPhone & Android apps. Superb support.
 
@@ -48,7 +48,7 @@ With Ecwid, you can include your ecommerce shop on multiple websites, blogs, soc
 
 ### Mobile Responsive Design
 
-Ecwid works great on any Wordpress site, especially those running on mobile-optimized themes. Your online store looks perfect on smartphones and automatically adapts to your customer’s screen size: laptops, tablets, smart TVs or smart watches. Check out this [demo](https://ecwid.to/ecwid-demo-store)
+Ecwid works great on any Wordpress site, especially those running on mobile-optimized themes. Your online store looks perfect on smartphones and automatically adapts to your customer’s screen size: laptops, tablets, smart TVs or smart watches.
 
 ### Hundreds of extensions and powerful API
 
@@ -60,7 +60,6 @@ Start selling ealisy with no big investment. As your online shop grows, Ecwid gr
 
 ### See Ecwid In Action
 
-* [Demo Store](https://ecwid.to/ecwid-demo-store "Ecwid demo")
 * [Ecwid Ecommerce Control panel](https://ecwid.to/ecwid-store-control-panel "Ecwid Control Panel") (you will be able to create an Ecwid account)
 * [Showcase](https://ecwid.to/ecwid-wp-site)
 
@@ -154,6 +153,9 @@ You can use Ecwid’s built-in import tools to copy your store products from any
 * [Ecwid Help Center](http://help.ecwid.com "Ecwid Help")
 
 == Changelog ==
+= 7.0.2 - Jun 17, 2025 =
+- Fixed an issue where a "2" was incorrectly appended to page slugs when the "URLs without ID" feature was enabled.
+
 = 7.0.1 - Apr 8, 2025 =
 - **WordPress 6.8 compatibility.** The new WordPress version will be released soon. The Ecwid ecommerce shopping cart plugin is ready for the new release — everything works well in your WordPress admin and storefront pages. Feel free to upgrade your site to WordPress 6.8.
 - **Improved security when handling Gutenberg block params. Ecwid ecommerce shopping cart plugin update recommended.**
