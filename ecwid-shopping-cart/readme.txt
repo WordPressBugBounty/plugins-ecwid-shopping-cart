@@ -4,8 +4,8 @@ Tags: ecommerce, e-commerce, storefront, shopping cart, online store
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 4.4
-Tested up to: 6.8
-Stable tag: 7.0.4
+Tested up to: 6.9
+Stable tag: 7.0.7
 
 Powerful, easy to use ecommerce shopping cart for WordPress. Sell on Facebook and Instagram. iPhone & Android apps. Superb support.
 
@@ -152,6 +152,16 @@ You can use Ecwid’s built-in import tools to copy your store products from any
 * [Ecwid Help Center](http://help.ecwid.com "Ecwid Help")
 
 == Changelog ==
+= 7.0.7 - Jan 29, 2026 =
+- **Plugin code improvements for better security. Ecwid ecommerce shopping cart plugin update recommended.**
+
+= 7.0.6 - Jan 29, 2026 =
+- **Plugin code improvements for better security. Ecwid ecommerce shopping cart plugin update recommended.**
+
+= 7.0.5 - Dec 2, 2025 =
+- **WordPress 6.9 compatibility.** The new WordPress version will be released soon. The Ecwid ecommerce shopping cart plugin is ready for the new release — everything works well in your WordPress admin and storefront pages. Feel free to upgrade your site to WordPress 6.9.
+- Internal improvements and optimizations.
+
 = 7.0.4 - Jul 15, 2025 =
 - Improved compatibility with the Jetpack plugin to ensure storefront scripts load correctly when 'Defer Non-Essential JavaScript' is enabled.
 - Applied minor fixes and general improvements for better performance and stability.
